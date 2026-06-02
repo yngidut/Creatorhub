@@ -1,20 +1,20 @@
 export const creator = {
-  name: 'Your Name Here',
+  name: 'Yona23',
   tagline: 'Content Creator · Storyteller · Digital Artist',
   description:
     'I create content that inspires, educates, and entertains. From cinematic YouTube videos to raw behind-the-scenes moments, I bring ideas to life.',
-  bio: `Hi, I'm Your Name Here — a full-time content creator based in [City], [Country]. I've been creating digital content for over 5 years, sharing my journey through videos, photos, and stories.
+  bio: `Hi, I'm Yona23 — a full-time content creator based in [City], [Country]. I've been creating digital content for over 5 years, sharing my journey through videos, photos, and stories.
 
 What started as a hobby quickly grew into a community of thousands who share my passion for creativity, technology, and personal growth. Whether I'm reviewing the latest gear, sharing productivity tips, or documenting my travels, I believe in authenticity above all.
 
 When I'm not filming or editing, you'll find me exploring coffee shops, diving into a good book, or planning the next adventure. This space is where all of that comes together.`,
   featuredVideo: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
   socialLinks: [
-    { name: 'YouTube', url: 'https://youtube.com', icon: '▶' },
-    { name: 'Instagram', url: 'https://instagram.com', icon: '📷' },
-    { name: 'TikTok', url: 'https://tiktok.com', icon: '🎵' },
-    { name: 'Twitter / X', url: 'https://twitter.com', icon: '𝕏' },
-    { name: 'LinkedIn', url: 'https://linkedin.com', icon: '💼' },
+    { name: 'YouTube', url: 'https://youtube.com/@Yona23', icon: '▶' },
+    { name: 'Instagram', url: 'https://instagram.com/Yona23', icon: '📷' },
+    { name: 'TikTok', url: 'https://tiktok.com/@Yona23', icon: '🎵' },
+    { name: 'Twitter / X', url: 'https://twitter.com/Yona23', icon: '𝕏' },
+    { name: 'LinkedIn', url: 'https://linkedin.com/in/Yona23', icon: '💼' },
   ],
 };
 
