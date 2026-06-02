@@ -1,6 +1,6 @@
 export const creator = {
   name: 'Yona23',
-  tagline: 'Content Creator · Storyteller · Digital Artist',
+  tagline: 'Digital Artist · Content Creator · Storyteller',
   description:
     'I create content that inspires, educates, and entertains. From cinematic YouTube videos to raw behind-the-scenes moments, I bring ideas to life.',
   bio: `Hi, I'm Yona23 — a full-time content creator based in [City], [Country]. I've been creating digital content for over 5 years, sharing my journey through videos, photos, and stories.
